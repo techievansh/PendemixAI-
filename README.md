@@ -12,7 +12,6 @@ streamlit run app.py
 ## Project Files
 app.py – main application  
 requirements.txt – dependencies  
-data/models – datasets or trained models
 
 ## Author
 Vansh
